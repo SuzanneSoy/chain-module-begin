@@ -8,4 +8,4 @@
 (define scribblings '(("scribblings/chain-module-begin.scrbl" ())))
 (define pkg-desc "Use this to build meta-languages, where a #%module-begin expands to the #%module-begin of another user-specified language.")
 (define version "0.1")
-(define pkg-authors '("Suzanne Soy"))
+(define pkg-authors '(|Suzanne Soy|))
